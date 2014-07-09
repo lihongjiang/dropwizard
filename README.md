@@ -18,6 +18,8 @@ dropwizard
 
 ## 开发流程(参考官方网站)
 
+  可以下载demo运行了解运行原理,注意:本工程是基于idea+maven开发.
+
 ## 关键部分
 
 > * 请求参数如何接收.
@@ -45,6 +47,8 @@ dropwizard
   只需要注册模板文件解释器,在Service类initialize方法中
   bootstrap.addBundle(new ViewBundle());
   在接口返回View时候,指定页面路径
+  
+  
   
 ## 关于作者
 

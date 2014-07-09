@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="kanhe-core-2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/kanhe-core-2.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kanghe-service-2.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kanghe-common-2.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
